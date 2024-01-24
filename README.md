@@ -1,5 +1,5 @@
 # FPGA-Thesis-Code
-Code for my thesis for Power Analysis of 8 bit and Binary Neural Networks for Image Classification on FPGAs
+Code for my thesis for Power Analysis of 8 bit and Binary Neural Networks for Image Classification on FPGAs. It also contains the final thesis report as a PDF in the root folder.
 
 This folder contains the different aspects of the code. It is broken up into the following sub folders:
 - FPGA Networks: A folder containing the zip files needed to be deployed to the FPGA (PYNQ-Z2)
